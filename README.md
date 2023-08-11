@@ -24,8 +24,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: https://github.com/mkboris/Workit-landing-page-
-- Live Site URL: https://mkboris.github.io/Workit-landing-page-/
+- Solution URL: https://github.com/mkboris/Workit-landing-page
+- Live Site URL: https://mkboris.github.io/Workit-landing-page/
   
 ### Built with
 
