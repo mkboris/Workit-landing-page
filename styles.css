@@ -247,8 +247,9 @@ nav {
 .icons {
     cursor: pointer;
 }
-.icons:hover {
-    background: var(--dark-purple);
+.social-icons img:hover {
+  filter: invert(3%) sepia(87%) saturate(7167%) hue-rotate(275deg)
+    brightness(100%) contrast(100%);
 }
 
 /* TABLET VERSION */
